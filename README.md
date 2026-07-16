@@ -22,7 +22,7 @@ We explore how to use **conditions**, **relational operators**, **logical operat
 
 | #  | Question                                                                 | Solution Link |
 |----|--------------------------------------------------------------------------|---------------|
-| 1  | Take a number and print whether it’s positive, negative, or zero.        | [View Solution](./Level_1_Simple_Conditions/q1_positive_negative_zero.py) |
+| 1  | Take a number and print whether it’s positive, negative, or zero.        | [View Solution](./L1/p1.py) |
 | 2  | Check if a number is even or odd.                                        | [View Solution](./Level_1_Simple_Conditions/q2_even_odd.py) |
 | 3  | Check if a number is divisible by 5.                                     | [View Solution](./Level_1_Simple_Conditions/q3_divisible_by_5.py) |
 | 4  | Check if a number is divisible by both 3 and 5.                          | [View Solution](./Level_1_Simple_Conditions/q4_divisible_by_3_and_5.py) |
