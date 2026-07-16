@@ -57,7 +57,7 @@ We explore how to use **conditions**, **relational operators**, **logical operat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Logical-Reasoning-Master-Logic.git
+   git clone https://github.com/CODEMASTER-ABDULLAH-92/MASTER-LOGIC-BUILDING-IN-PYTHON.git 
    ```
 ---
 
